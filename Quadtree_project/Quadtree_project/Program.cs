@@ -18,7 +18,7 @@ namespace Quadtree_project
 
         public Quad nw, ne, sw, se;
         public int x1, x2, y1, y2;
-        //test
+        //test2
         public Quad(Point[] point,int x1,int y1,int x2,int y2)
         {
             this.x1 = x1;
