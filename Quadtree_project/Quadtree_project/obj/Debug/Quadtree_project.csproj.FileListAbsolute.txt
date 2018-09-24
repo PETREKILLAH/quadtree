@@ -1,0 +1,7 @@
+C:\Users\Japan\Desktop\Quadtree_project\Quadtree_project\bin\Debug\Quadtree_project.exe.config
+C:\Users\Japan\Desktop\Quadtree_project\Quadtree_project\bin\Debug\Quadtree_project.exe
+C:\Users\Japan\Desktop\Quadtree_project\Quadtree_project\bin\Debug\Quadtree_project.pdb
+C:\Users\Japan\Desktop\Quadtree_project\Quadtree_project\obj\Debug\Quadtree_project.csprojAssemblyReference.cache
+C:\Users\Japan\Desktop\Quadtree_project\Quadtree_project\obj\Debug\Quadtree_project.csproj.CoreCompileInputs.cache
+C:\Users\Japan\Desktop\Quadtree_project\Quadtree_project\obj\Debug\Quadtree_project.exe
+C:\Users\Japan\Desktop\Quadtree_project\Quadtree_project\obj\Debug\Quadtree_project.pdb
