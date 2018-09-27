@@ -4,7 +4,7 @@ point to a point that the player inputs
 
 # What is a Quadtree?
 A quadtree is a type of data structure. All trees consist of a root, branches, and leaves. Every point on a tree is called a node.
-A nodes have branches while others don't. If a node doesn't have branches, it is a leaf. The root it the highest level of a tree.
+Some nodes have branches while others don't. If a node doesn't have branches, it is a leaf. The root is the highest level of a tree.
 Quadtrees are trees that specifically have 4 branches per node.
 An example of this is show below...
 ![a quadtree](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Quad_tree_bitmap.svg/1280px-Quad_tree_bitmap.svg.png "A quadtree")
