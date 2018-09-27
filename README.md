@@ -47,9 +47,10 @@ My tree's nodes have four possible names
 # How it works
 Firstly, 10 points are generated randomly. Then, they are placed in instances of the quad class whose constructor recursively
 creates more subquads and places points into them.
-Then, we 
+After the user's points is stored, a member function of quad is used which recursively searches for the nearest point by grabbing the points in the parent quad of the leaf that the point belongs to, along with the adjecent quads. After all of the points in those quads are stored, a simple distance formula calculation is done to find which of those points are closer. Finally, the result is pushed to
+the console.
 
 # Closing Remarks
-While making this project, I learned some of the basics
+While making this project, I learned some of the basics of data structures and trees. I learned many of the great functionalities of classes and recursion. I can safely say that while making this project, I have strengthened my skills as a programmer.
 
 
